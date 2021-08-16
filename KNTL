@@ -8,7 +8,7 @@ $ pkg install update
 $ pkg install upgrade
 $ pkg install python
 $ pkg install git
-& git clone https://github.com/AldiGanzz/AldiGanzz
+$ git clone https://github.com/AldiGanzz/AldiGanzz
 $  cd AldiGanzz
 $ python x.py
 
