@@ -1,3 +1,7 @@
+MAU NGERECODE NYAAA? 
+
+
+
 import requests, time
 
 print("""
@@ -19,3 +23,14 @@ for x in range(jum):
 			print(f"{x+1}. Gagal {num}")
 	except Exception as e:
 		print(f"{x+1}. Pass: {e}")
+
+
+
+
+
+
+
+
+
+
+RECODE AJA ANJG JAN MALU²
