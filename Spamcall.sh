@@ -1,4 +1,4 @@
-#!/bin/sh
+ANJG JAN DIRECODE🛡️
 
 clear
 figlet SPAMCALL
